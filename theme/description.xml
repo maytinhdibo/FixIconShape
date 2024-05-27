@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<theme>
+<version><![CDATA[1.0]]></version>
+<uiVersion>10</uiVersion>
+<author><![CDATA[maytinhdibo]]></author>
+<designer><![CDATA[maytinhdibo]]></designer>
+<title><![CDATA[Fix icon shape]]></title>
+<description><![CDATA[Change MIUI icon shape to AOSP default.]]></description>
+<authors>
+<author locale="en_US"><![CDATA[maytinhdibo]]></author>
+<author locale="zh_CN"><![CDATA[maytinhdibo]]></author>
+</authors>
+<designers>
+<designer locale="en_US"><![CDATA[maytinhdibo]]></designer>
+<designer locale="zh_CN"><![CDATA[maytinhdibo]]></designer>
+</designers>
+<titles>
+<title locale="en_US"><![CDATA[Fix icon shape]]></title>
+<title locale="zh_CN"><![CDATA[Fix icon shape]]></title>
+</titles>
+<descriptions>
+<description locale="en_US"><![CDATA[Change MIUI icon shape to AOSP default.]]></description>
+</descriptions>
+<miuiAdapterVersion>2.0</miuiAdapterVersion>
+</theme>

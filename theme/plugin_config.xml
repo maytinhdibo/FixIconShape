@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PluginConfig>
+  <iconCalendar/>
+  <iconClock/>
+  <iconWeather></iconWeather>
+  <lockscreen/>
+  <desktopClock/>
+  <desktopWallpaper/>
+</PluginConfig>

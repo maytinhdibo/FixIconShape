@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IconTransform>
+    <Config name="SupportLayerIcon" value="true" />
+    <Config name="UseDynamicIcon" value="true" />
+    <Config name="ConfigIconMask" value="M50 0A50 50,0,1,1,50 100A50 50,0,1,1,50 0" />
+</IconTransform>
